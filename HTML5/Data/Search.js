@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Accessibility/1whatisaccessibility.htm'],s:['$20','you'],p:[['$20',11],['historically',0],['the',7]]});
